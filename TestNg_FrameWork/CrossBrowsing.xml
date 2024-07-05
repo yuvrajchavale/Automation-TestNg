@@ -1,0 +1,29 @@
+<suite name = "CrossBroweser">
+<test name = "Chrometest">
+<parameter name ="Browser" value = "Chrome" >
+</parameter>
+<classes>
+<class name = "july_3.ParametersCrossBrowsing">
+</class>
+</classes>a
+</test>
+
+<test name = "Edgetest">
+<parameter name ="Browser" value = "Edge" >
+</parameter>
+<classes>
+<class name = "july_3.ParametersCrossBrowsing">
+</class>
+</classes>
+</test>
+
+<test name = "Firefoxtest">
+<parameter name ="Browser" value = "Firefox" >
+</parameter>
+<classes>
+<class name = "july_3.ParametersCrossBrowsing">
+</class>
+</classes>
+</test>
+
+</suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FirstXml]">
+  <test thread-count="5" name="TestCaseReport(failed)">
+    <classes>
+      <class name="july_1.PriorityIgnoreInvocation">
+        <methods>
+          <include name="setUp"/>
+          <include name="users"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- july_1.PriorityIgnoreInvocation -->
+    </classes>
+  </test> <!-- TestCaseReport(failed) -->
+</suite> <!-- Failed suite [FirstXml] -->

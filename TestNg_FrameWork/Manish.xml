@@ -1,0 +1,9 @@
+<suite name = "FirstXml" >
+<test name = "TestCaseReport">
+<classes>
+<class name = "july_1.BeforeAfterMethod"></class>
+<class name = "july_1.DependentMethod"></class>
+<class name = "july_1.PriorityIgnoreInvocation"></class>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,13 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">-->
+<suite parallel="classes" name="Yuvraj">
+  <test thread-count="5" parallel="classes" name="TestReport">
+    <classes>
+      <class name="july_2.ThirdTestNGClass"/>
+      <class name="june_NG29.PrimusHomePage"/>
+      <class name="july_1.DependentMethod"/>
+      <class name="july_1.PriorityIgnoreInvocation"/>
+      <class name="july_1.BeforeAfterMethod"/>
+    </classes>
+  </test> <!-- TestReport -->
+</suite> <!-- Yuvraj -->
