@@ -100,7 +100,7 @@ Ensure the following are installed:
 <ol>
   <li><strong>Clone the repository:</strong>
     <pre>
-    git clone https://github.com/yourusername/TestNg_FrameWork.git
+    git clone https://github.com/yuvrajchavale/TestNg_FrameWork.git
     cd TestNg_FrameWork
     </pre>
   </li>
